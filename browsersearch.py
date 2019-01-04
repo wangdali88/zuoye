@@ -9,5 +9,5 @@ def Param(url,selector,keyword):
     driver.quit()
 
 
-Param('http://www.baidu.com','kw','bing')
+Param('http://www.bing.com','sb_form_q','bing')
 Param('http://www.baidu.com','kw','百度')
